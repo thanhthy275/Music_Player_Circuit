@@ -49,14 +49,11 @@ When switched from either ON state to the OFF state, the circuit should store:
 the current track number in a register (i.e. using Flip Flops)
 the current volume in a register (i.e. using Flip Flops).
 
-
-![image](https://github.com/thanhthy275/Music_Player_Circuit/assets/67629044/7a9c8dab-ea8a-4b27-9f8b-273df50360ec)
-
-
-
 **- Stage 5B: Implement recall of previous player settings to initialise your player**
 
 Implement recall of a previous player setting. This should include the following:
 When switched to ON (PAUSED) from the OFF state, your circuit should recall:
 the track number from registers and display this
 the volume from registers and display this.
+
+![image](https://github.com/thanhthy275/Music_Player_Circuit/assets/67629044/7a9c8dab-ea8a-4b27-9f8b-273df50360ec)
